@@ -1,0 +1,145 @@
+{
+    "header": {
+        "home": "home",
+        "projects": "projects",
+        "about": "about-me",
+        "contacts": "contacts"
+    },
+    "footer": {
+        "description": "iOS and Software developer based in Germany",
+        "copyright": "Copyright 2023. Made by Elias, revised by Manan Jain",
+        "media": "Media"
+    },
+    "skills": {
+        "language": "Languages",
+        "database": "Databases",
+        "tool": "Tools",
+        "framework": "Frameworks",
+        "devops": "DevOps",
+        "api": "APIs",
+        "mlorai": "ML/AI",
+        "platform": "Platforms",
+        "testing": "Testing"
+    },
+    "projects": {
+        "coredataexercise": {
+            "name": "Little Lemon App - CoreData Exercise",
+            "description": "Little Lemon Resturant App - Core Data Integration"
+        },
+        "lengthunitconverter": {
+            "name": "Length Unit Converter",
+            "description": "Length Unit Converter App - Convert length units"
+        },
+        "easybrowser": {
+            "name": "Easy Browser",
+            "description": "Easy Browser and worked with URLRequest, and URLSession, and WebKit"
+        },
+        "flaggame": {
+            "name": "Flag Game",
+            "description": "A Flag game is a fun game that asks users to guess the country's flag and gives score based on it"
+        },
+        "dogatlas": {
+            "name": "Dog Atlas",
+            "description": "Dog Atlas App- Uses a public API to get information about dog breeds"
+        },
+        "wesplit": {
+            "name": "WeSplit App",
+            "description": "A bill splitting app"
+        },
+        "weatherapp": {
+            "name": "WeatherApp-RESTAPI",
+            "description": "The app uses the OpenWeatherMap API, which employs REST and JSON to provide weather data"
+        },
+        "asynchronousunittesting": {
+            "name": "Asynchronous Unit Testing in iOS",
+            "description": "Exercises based on the Asynchronous Unit Testing"
+        },
+        "cnn": {
+            "name": "Facial Expression Recognition Convolutional Neural Network",
+            "description": "A CNN model to classify facial expressions using Keras and TensorFlow"
+        },
+        "damagedetection": {
+            "name": "Master Thesis- Damage Detection and Prediction",
+            "description": "My master thesis project on damage detection and prediction using multimodal machine learning"
+        },
+        "iris": {
+            "name": "Iris Flower Classification",
+            "description": "A project to classify iris flowers using Keras and TensorFlow"
+        },
+        "weatherappflask": {
+            "name": " Weather App Flask",
+            "description": "A Weather app using Python and Flask"
+        }
+    },
+    "pages": {
+        "home": {
+            "hero": {
+                "title": "Manan is a <span> an iOS </span> and <span>software</span> developer",
+                "description": "I like to craft intelligent apps and systems where technology meets creativity — and real impact follows.",
+                "button": "Contact ME",
+                "status": "Open for new opportunities"
+            },
+            "quote": {
+                "text": "Code is magic – as long as you understand why the magic sometimes crashes.",
+                "author": "A developer with experience"
+            },
+            "projects": {
+                "title": "projects",
+                "button": "View all"
+            },
+            "skills": {
+                "title": "skills"
+            },
+            "about": {
+                "title": "about",
+                "description": [
+                    "I'm an iOS and software developer based in Germany, currently focusing on reliable, testable systems.",                    "My experience includes QA and testing at Samsung and Applause, embedded testing at dSPACE, and ML-based development at Cargoboard.",
+                    "At CHECK24, I contributed to iOS development with SwiftUI and implemented unit tests.",
+                    "I hold a Master's degree in Computer Science from the University of Paderborn, with research focused on explainable AI and predictive analytics.",
+                    "I'm always open to learning, enjoy working across disciplines, and value thoughtful, quality-driven development."
+                  ],
+                "button": "View all"
+            },
+            "contacts": {
+                "title": "contacts",
+                "text": "🚀 Open to opportunities & connections! 💌 Reach out for job offers, collaborations, or to share ideas. 💬 Prompt replies promised. Let's connect!",
+                "media": "Message me here",
+                "donate": "Donate me here"
+            }
+        },
+        "projects": {
+            "description": "All of my projects",
+            "decent": "iOS Projects",
+            "small": "AI/ML Projects",
+            "inProgress": "unfinished"
+        },
+        "about": {
+            "description": "Who am i",
+            "about": {
+                "description": [
+                    "I'm an iOS and software developer based in Germany, currently focusing on reliable, testable systems.",
+                    "I started my journey by independently building iOS apps, which sparked my interest in software engineering.",
+                    "My experience includes QA and testing at Samsung and Applause, embedded testing at dSPACE, and ML-based development at Cargoboard.",
+                    "At CHECK24, I contributed to iOS development with SwiftUI and implemented unit tests.",
+                    "I hold a Master's degree in Computer Science from the University of Paderborn, with research focused on explainable AI and predictive analytics.",
+                    "I'm always open to learning, enjoy working across disciplines, and value thoughtful, quality-driven development."
+                  ]
+            },
+            "skills": {
+                "title": "skills"
+            },
+            "facts": {
+                "title": "fun-facts",
+                "list": [
+                          "☕ I connect with people over a good cup of coffee.",
+                          "🐶 I find joy and empathy through my love for dogs.",
+                         "🌴 I recharge at the beach and embrace new waves of change.",
+                          "🍛 I explore cultures and creativity through new cuisines."
+                        ]
+            }
+        },
+        "contacts": {
+            "description": "How to contact me"
+        }
+    }
+}

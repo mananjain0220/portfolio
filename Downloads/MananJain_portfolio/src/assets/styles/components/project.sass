@@ -1,0 +1,55 @@
+.project
+    border: 1px solid var(--gray)
+
+    &__links
+        display: flex
+        flex-wrap: wrap
+        gap: 8px
+
+    &__image
+        width: 100%
+        height: auto
+        object-fit: contain
+        border-bottom: 1px solid var(--gray)
+
+    &__image--normal
+        max-height: 500px
+        margin: 0
+        padding: 0
+
+    &__image--wide
+        max-height: 350px
+
+
+    &__content
+        padding: 16px
+
+    &__name
+        font:
+            size: 24px
+            weight: 500
+
+    &__description
+        color: var(--gray)
+        margin: 16px 0
+    
+    &__techs
+        display: flex
+        flex-wrap: wrap
+        gap: 8px 16px
+        color: var(--gray)
+        padding: 8px
+        border-bottom: 1px solid var(--gray)
+
+.project-list
+    width: 100%
+    display: grid
+
+    grid-template-columns: repeat(3, 1fr)
+
+    @media (max-width: $desktopScreen)
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+
+    gap: 16px
+    align-items: start
+    margin-top: 48px

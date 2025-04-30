@@ -1,0 +1,147 @@
+{
+    "header": {
+      "home": "startseite",
+      "projects": "projekte",
+      "about": "über-mich",
+      "contacts": "kontakte"
+    },
+    "footer": {
+      "description": "iOS und Softwareentwickler mit Sitz in Deutschland",
+      "copyright": "Copyright 2023. Erstellt von Elias, überarbeitet von Manan Jain",
+      "media": "Medien"
+    },
+    "skills": {
+      "language": "Sprachen",
+      "database": "Datenbanken",
+      "tool": "Tools",
+      "framework": "Frameworks",
+      "devops": "DevOps",
+      "api": "APIs",
+      "mlorai": "ML/AI",
+      "platform": "Plattformen",
+      "testing": "Tests"
+    },
+    "projects": {
+      "coredataexercise": {
+        "name": "Little Lemon App - CoreData Übung",
+        "description": "Little Lemon Restaurant-App - Core Data-Integration"
+      },
+      "lengthunitconverter": {
+        "name": "Längeneinheiten-Umrechner",
+        "description": "App zur Umrechnung von Längeneinheiten"
+      },
+      "easybrowser": {
+        "name": "Einfacher Browser",
+        "description": "Einfacher Browser mit URLRequest, URLSession und WebKit"
+      },
+      "flaggame": {
+        "name": "Flaggen-Spiel",
+        "description": "Ein unterhaltsames Spiel, bei dem Benutzer die Flaggen von Ländern erraten und Punkte sammeln"
+      },
+      "dogatlas": {
+        "name": "Hunde-Atlas",
+        "description": "App mit Infos über Hunderassen über eine öffentliche API"
+      },
+      "wesplit": {
+        "name": "WeSplit-App",
+        "description": "Eine App zur Aufteilung von Rechnungen"
+      },
+      "weatherapp": {
+        "name": "WetterApp-RESTAPI",
+        "description": "Nutzt die OpenWeatherMap API (REST + JSON) zur Bereitstellung von Wetterdaten"
+      },
+      "asynchronousunittesting": {
+        "name": "Asynchrones Unit Testing in iOS",
+        "description": "Übungen zum Thema Asynchrones Unit Testing"
+      },
+      "cnn": {
+        "name": "Gesichtsausdruckserkennung mit Convolutional Neural Network",
+        "description": "Ein CNN-Modell zur Klassifizierung von Gesichtsausdrücken mit Keras und TensorFlow"
+      },
+      "damagedetection": {
+        "name": "Masterarbeit - Schadenserkennung und -vorhersage",
+        "description": "Meine Masterarbeit zur Schadenerkennung und -vorhersage mit Multimodal Machine Learning"
+      },
+      "iris": {
+        "name": "Iris-Blütenklassifikation",
+        "description": "Projekt zur Klassifizierung von Iris-Blüten mit Keras und TensorFlow"
+      },
+      "weatherappflask": {
+        "name": "Wetter-App mit Flask",
+        "description": "Eine Wetter-App mit Python und Flask"
+      }
+    },
+    "pages": {
+      "home": {
+        "hero": {
+          "title": "Manan ist <span>ein iOS</span> und <span>Software</span>-Entwickler",
+          "description": "Ich entwickle gerne intelligente Apps und Systeme, bei denen Technologie auf Kreativität trifft – und echte Wirkung entsteht.",
+          "button": "Kontaktiere mich",
+          "status": "Offen für neue Möglichkeiten"
+        },
+        "quote": {
+          "text": "Code ist Magie – solange du verstehst, warum die Magie manchmal abstürzt.",
+          "author": "Ein erfahrener Entwickler"
+        },
+        "projects": {
+          "title": "projekte",
+          "button": "Alle ansehen"
+        },
+        "skills": {
+          "title": "fähigkeiten"
+        },
+        "about": {
+          "title": "über mich",
+          "description": [
+            "Ich bin iOS- und Softwareentwickler mit Sitz in Deutschland und konzentriere mich auf zuverlässige, gut testbare Systeme.",
+            "Meine Erfahrung umfasst QA und Testing bei Samsung und Applause, Embedded Testing bei dSPACE sowie ML-basierte Entwicklung bei Cargoboard.",
+            "Bei CHECK24 habe ich zur iOS-Entwicklung mit SwiftUI beigetragen und Unit Tests implementiert.",
+            "Ich habe einen Masterabschluss in Informatik von der Universität Paderborn, mit Forschungsschwerpunkt auf erklärbarer KI und prädiktiver Analyse.",
+            "Ich bin offen für Neues, arbeite gerne interdisziplinär und lege Wert auf durchdachte, qualitätsorientierte Entwicklung."
+          ],
+          "button": "Mehr anzeigen"
+        },
+        "contacts": {
+          "title": "kontakte",
+          "text": "🚀 Offen für neue Möglichkeiten & Kontakte! 💌 Melde dich für Jobangebote, Zusammenarbeit oder um Ideen auszutauschen. 💬 Schnelle Antwort garantiert. Lass uns vernetzen!",
+          "media": "Schreib mir hier",
+          "donate": "Spende hier"
+        }
+      },
+      "projects": {
+        "description": "Alle meine Projekte",
+        "decent": "iOS-Projekte",
+        "small": "KI/ML-Projekte",
+        "inProgress": "nicht abgeschlossen"
+      },
+      "about": {
+        "description": "Wer bin ich",
+        "about": {
+          "description": [
+            "Ich bin iOS- und Softwareentwickler mit Sitz in Deutschland und konzentriere mich auf zuverlässige, gut testbare Systeme.",
+            "Meine Reise begann mit der eigenständigen Entwicklung von iOS-Apps, wodurch mein Interesse an Softwaretechnik geweckt wurde.",
+            "Meine Erfahrung umfasst QA und Testing bei Samsung und Applause, Embedded Testing bei dSPACE sowie ML-basierte Entwicklung bei Cargoboard.",
+            "Bei CHECK24 habe ich zur iOS-Entwicklung mit SwiftUI beigetragen und Unit Tests implementiert.",
+            "Ich habe einen Masterabschluss in Informatik von der Universität Paderborn, mit Forschungsschwerpunkt auf erklärbarer KI und prädiktiver Analyse.",
+            "Ich bin offen für Neues, arbeite gerne interdisziplinär und lege Wert auf durchdachte, qualitätsorientierte Entwicklung."
+          ]
+        },
+        "skills": {
+          "title": "fähigkeiten"
+        },
+        "facts": {
+          "title": "fun-facts",
+          "list": [
+            "☕ Ich verbinde mich mit Menschen bei einer guten Tasse Kaffee.",
+            "🐶 Durch meine Liebe zu Hunden finde ich Freude und Empathie.",
+            "🌴 Ich tanke neue Energie am Strand und begrüße den Wandel.",
+            "🍛 Ich entdecke Kulturen und Kreativität durch neue Küchen."
+          ]
+        }
+      },
+      "contacts": {
+        "description": "Wie du mich kontaktieren kannst"
+      }
+    }
+  }
+  
